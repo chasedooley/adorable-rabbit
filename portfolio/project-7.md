@@ -1,8 +1,8 @@
 ---
 title: Project Title 7
 subtitle: Optional Project Subtitle
-date: '2018-01-15'
-thumb_image: images/7_thumb.jpg
+date: 2018-01-15
+thumb_image: "/images/13_thumb.jpg"
 thumb_image_alt: A black headphones on a yeallow background
 image: images/7.jpg
 image_alt: A black headphones on a yeallow background
@@ -12,31 +12,42 @@ seo:
   title: Project Title 7
   description: This is the project 7 description
   extra:
-    - name: 'og:type'
-      value: website
-      keyName: property
-    - name: 'og:title'
-      value: Project Title 7
-      keyName: property
-    - name: 'og:description'
-      value: This is the project 7 description
-      keyName: property
-    - name: 'og:image'
-      value: images/7.jpg
-      keyName: property
-      relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Project Title 7
-    - name: 'twitter:description'
-      value: This is the project 7 description
-    - name: 'twitter:image'
-      value: images/7.jpg
-      relativeUrl: true
+  - name: og:type
+    value: website
+    keyName: property
+    relativeUrl: false
+  - name: og:title
+    value: Project Title 7
+    keyName: property
+    relativeUrl: false
+  - name: og:description
+    value: This is the project 7 description
+    keyName: property
+    relativeUrl: false
+  - name: og:image
+    value: images/7.jpg
+    keyName: property
+    relativeUrl: true
+  - name: twitter:card
+    value: summary_large_image
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:title
+    value: Project Title 7
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:description
+    value: This is the project 7 description
+    keyName: ''
+    relativeUrl: false
+  - name: twitter:image
+    value: images/7.jpg
+    relativeUrl: true
+    keyName: ''
+  robots: []
 layout: project
----
 
+---
 Diam maecenas sed enim ut sem. Nisl purus in mollis nunc sed id semper. Dictum sit amet justo donec enim diam vulputate ut pharetra. Eget velit aliquet sagittis id consectetur purus ut. Auctor neque vitae tempus quam pellentesque nec. Sed enim ut sem viverra aliquet eget. Eleifend donec pretium vulputate sapien nec sagittis aliquam malesuada. Enim tortor at auctor urna nunc id cursus. Fermentum et sollicitudin ac orci phasellus. Nunc non blandit massa enim nec dui. Cursus euismod quis viverra nibh cras pulvinar. Accumsan in nisl nisi scelerisque eu ultrices vitae auctor. Dui vivamus arcu felis bibendum ut.
 
 Sed risus pretium quam vulputate dignissim suspendisse in est. Vitae auctor eu augue ut lectus arcu. Tristique magna sit amet purus. Aliquet enim tortor at auctor urna nunc. Id leo in vitae turpis massa sed elementum tempus. Egestas maecenas pharetra convallis posuere morbi leo urna molestie at. Amet consectetur adipiscing elit duis tristique sollicitudin. Egestas sed sed risus pretium quam vulputate. Nunc eget lorem dolor sed viverra ipsum nunc. Consequat mauris nunc congue nisi vitae suscipit tellus. Fames ac turpis egestas maecenas pharetra convallis posuere morbi leo. Et ultrices neque ornare aenean euismod elementum nisi quis. Varius morbi enim nunc faucibus a pellentesque sit amet. Vitae proin sagittis nisl rhoncus mattis rhoncus urna. In mollis nunc sed id semper risus in hendrerit gravida.
