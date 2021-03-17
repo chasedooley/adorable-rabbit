@@ -100,3 +100,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://adorable-rabbit-2612f.netlify.app'
