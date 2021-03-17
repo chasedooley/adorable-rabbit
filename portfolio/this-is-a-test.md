@@ -13,7 +13,6 @@ thumb_image: "/images/12.jpg"
 thumb_image_alt: Some neat shit
 image: ''
 image_alt: ''
-published: false
 
 ---
 word
